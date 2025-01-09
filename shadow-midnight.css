@@ -14,12 +14,11 @@
 
 @import url('https://refact0r.github.io/midnight-discord/midnight.css');
 
-@import url('https://fonts.googleapis.com/css?family=Inter');
 
 /* customize things here */
 :root {
 	/* font, change to 'gg sans' for default discord font*/
-	--font: 'Inter';
+	--font: 'figtree';
 
 	/* top left corner text */
 	--corner-text: 'malevolent shrine';
