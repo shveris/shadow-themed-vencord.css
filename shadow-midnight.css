@@ -81,7 +81,7 @@
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
 	--moon-icon: block; /* moon icon */
-	--moon-icon-url: url("https://raw.githubusercontent.com/shveris/shadow-themed-vencord.css/refs/heads/main/ulifeform.png");
+	--moon-icon-url: url("https://raw.githubusercontent.com/shveris/shadow-themed-vencord.css/refs/heads/main/shadow-icon.png");
 	--moon-icon-size: cover;
 
 	/* filter uncolorable elements to fit theme */
