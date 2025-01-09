@@ -65,7 +65,7 @@
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
 	--ulifeform-icon: block; /* ulifeform icon */
-	--ulifeform-icon-url: url('https://static.wikia.nocookie.net/sonic/images/a/a9/ModernSonicStyleGuideShadowHead.png/revision/latest?cb=20221222225643'); /* custom icon url */
+	--ulifeform-icon-url: url('https://www.deviantart.com/nibroc-rock/art/Vector-icon-Shadow-524576501'); /* custom icon url */
 	--ulifeform-icon-size: auto;
 
 	/* filter uncolorable elements to fit theme */
