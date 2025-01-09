@@ -65,7 +65,7 @@
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
 	--ulifeform-icon: block; /* ulifeform icon */
-	--ulifeform-icon-url: url('https://github.com/shveris/shadow-themed-vencord.css/blob/main/ulifeform.png'); /* custom icon url */
+	--ulifeform-icon-url: url('https://upload.wikimedia.org/wikipedia/commons/c/c4/Font_Awesome_5_solid_moon.svg'); /* custom icon url */
 	--ulifeform-icon-size: auto;
 
 	/* filter uncolorable elements to fit theme */
