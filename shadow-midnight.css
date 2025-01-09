@@ -65,7 +65,7 @@
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
 	--ulifeform-icon: block; /* ulifeform icon */
-	--ulifeform-icon-url: url('https://www.deviantart.com/nibroc-rock/art/Vector-icon-Shadow-524576501'); /* custom icon url */
+	--ulifeform-icon-url: url('https://github.com/shveris/shadow-themed-vencord.css/blob/0d9a3d23cc1281bddf43221c9da716c98c35c35f/shadow_icon_png-removebg-preview.png'); /* custom icon url */
 	--ulifeform-icon-size: auto;
 
 	/* filter uncolorable elements to fit theme */
